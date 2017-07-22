@@ -1,3 +1,4 @@
+package com.github.chandankumar665.primefinder;
 import java.util.Scanner;
 class PrimeFinder { 
 static int remainder;
