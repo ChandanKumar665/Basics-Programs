@@ -1,0 +1,6 @@
+package com.github.chandankumar665;
+public class Hello_world {
+public static void main(String[]args) {
+System.out.println("This is Hello World class"); // simply prints the msg on console
+}
+}
