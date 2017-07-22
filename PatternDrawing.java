@@ -26,14 +26,14 @@ public class PatternDrawing {
         for(k=1;k<=2*position-1;k++){
             System.out.print("*");
         }
-        System.out.println("");
+            System.out.println("");
     }
     }
     public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		System.out.println("Enter no of rows");
-        int rows=in.nextInt();
+                int rows=in.nextInt();
 		halfPyramid(rows);
-        pyramid(rows);
+                pyramid(rows);
     }
 }
